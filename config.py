@@ -1,0 +1,5 @@
+class Config:
+    CAMERA_INDEX = 0
+    DRIVE_SPEED = 0.5
+    TURN_SPEED = 0.3
+    OBSTACLE_THRESHOLD = 0.5
